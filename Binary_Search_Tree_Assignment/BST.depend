@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608212643 source:e:\madhuri\ads lab\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"bst.h"
+	"bst.c"
+
+1608212036 e:\madhuri\ads lab\bst\bst.h
+	<stdint.h>
+
+1608212680 e:\madhuri\ads lab\bst\bst.c
+	<assert.h>
+	<stdint.h>
+	<stdlib.h>
+	"bst.h"
+
